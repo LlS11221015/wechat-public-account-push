@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oz-tB6ZHwe_0T8JWAOX3ON_7etis',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'M3l-Mx6c7jpknGl5DfnY661OFEmaJPk6bPSXqpnIhsE	',
+      useTemplateId: 'M3l-Mx6c7jpknGl5DfnY661OFEmaJPk6bPSXqpnIhsE',
       // 所在省份
       province: '宁夏',
       // 所在城市
@@ -172,18 +172,18 @@ const USER_CONFIG = {
     },
     {
       name: '老婆1',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      id: 'oz-tB6ZHwe_0T8JWAOX3ON_7etis',
+      useTemplateId: 'M3l-Mx6c7jpknGl5DfnY661OFEmaJPk6bPSXqpnIhsE',
+      province: '宁夏',
+      city: '银川',
+      horoscopeDate: '10-15',
+      horoscopeDateType: '今日',
       openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
+      //festivals: [],
+      //customizedDateList: [],
+      //courseSchedule: null
     },
-    {
+    //{
       name: '老婆2',
       id: '',
       useTemplateId: '',
@@ -196,7 +196,7 @@ const USER_CONFIG = {
       customizedDateList: [],
       courseSchedule: null
     },
-    {
+    //{
       name: '老婆3',
       id: '',
       useTemplateId: '',
