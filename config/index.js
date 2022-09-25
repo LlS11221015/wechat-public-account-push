@@ -89,7 +89,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '邵慧丽', year: '2001', date: '10-15',
+          type: '生日', name: '', year: '', date: '',
         },
         {
           type: '节日', name: '被搭讪纪念日', year: '2021', date: '09-01',
